@@ -1,5 +1,7 @@
 # AdventJS - 2023
 
+![cover2023](./public/logo2023.png)
+
  | Cover | ## | Name | Difficulty |    solution |
 | ----- | -- | ---- | ---------- | ----------- |
 |       |    |      |            |             |
