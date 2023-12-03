@@ -26,7 +26,7 @@ You can follow midudev on [Twitter](https://twitter.com/midudev) You can also wa
 
 | ##    |                               Challenges                              |                              Solutions                               |
 | :---: |:---------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-|  2023   | [link](https://adventjs.dev/)                                       |   [link](https://github.com/AlecANL/adventjs/tree/main/src/2023)     |
+|  2023   | [Go to](https://adventjs.dev/)                                       |   [View](https://github.com/AlecANL/adventjs/tree/main/src/2023)     |
 
 ## 🚀 Quick start
 

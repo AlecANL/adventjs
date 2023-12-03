@@ -1,4 +1,6 @@
-# Challenge 02
+[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2023)
+
+# Challenge 02 🏭 We start the factory
 
 In Santa's workshop, the elves have a gift list they wish to make and a limited set of materials.
 
@@ -23,3 +25,9 @@ const materials = 'psli'
 manufacture(gifts, materials) // []
 
 ```
+
+> Points: 260
+
+<br>
+
+[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2023)

@@ -1,4 +1,6 @@
-# Challenge 01
+[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2023)
+
+# Challenge 01 🎁 First gift repeated
 
 In the toy factory of the North Pole, each toy has a unique identification number.
 
@@ -27,3 +29,9 @@ console.log(firstRepeatedId3) // 5
 ```
 
 Watch out! The elves say this is a Google technical test.
+
+> Points: 280
+
+<br>
+
+[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2023)
