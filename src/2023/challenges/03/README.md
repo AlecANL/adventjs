@@ -31,6 +31,39 @@ Please, keep in mind:
 
 > Points: 330
 
+## Better solutions from other users
+
+from: @eridev14
+
+```typescript
+export function findNaughtyStep (original: string, modified: string) {
+  if (original === modified) return ''
+
+  let pos = 0
+
+  while (original[pos] === modified[pos]) {
+    pos++
+  }
+
+  const or = original.slice(pos)
+  const mo = modified.slice(pos)
+  return (or.length > mo.length) ? or[0] : mo[0]
+}
+```
+
+from @KrashMello
+
+```typescript
+export function findNaughtyStep (original: string, modified: string) {
+  // code here
+  const [longerChars, shorterChars] = modified.length > original.length
+    ? [[...modified], [...original]]
+    : [[...original], [...modified]]
+
+  return longerChars.find((char, i) => char !== shorterChars[i]) ?? ''
+}
+```
+
 <br>
 
 [⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2023)
