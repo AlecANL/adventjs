@@ -1,82 +1,39 @@
-[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2023)
 
-# Challenge #3 😏 The naughty elf
+# Challenge #6: 🦌 The reindeer on trial
 
-In Santa's workshop, a mischievous elf has been playing around with the gift production line, adding or removing an unplanned step.
+The elves are cataloging Santa's reindeer 🦌 based on the distance they can travel.
 
-You have the original sequence of original manufacturing steps and the modified modified sequence that may include an extra step or be missing a step.
+For this, they have a text string movements where each character represents the direction of the reindeer's movement:
 
-Your task is to write a function that identifies and returns the first extra step that was added or removed in the manufacturing chain. If there is no difference between the sequences, return an empty string.
+* > = Moves to the right
+* < = Moves to the left
+* * = Can move forward or backward
 
-```typescript
-const original = 'abcd'
-const modified = 'abcde'
-findNaughtyStep(original, modified) // 'e'
+For example, if the movement is >>*<, it goes to the right twice, then it can go either left or right (whichever maximizes the final traveled distance) and then left.
 
-const original = 'stepfor'
-const modified = 'stepor'
-findNaughtyStep(original, modified) // 'f'
+The elves want to know what the maximum distance the reindeer travels is **after completing all movements**.
 
-const original = 'abcde'
-const modified = 'abcde'
-findNaughtyStep(original, modified) // ''
+**In the previous example, the maximum distance the reindeer travels is 2**. It goes to the right twice ```+2```, then with the ```*``` it can go to the right again to maximize the distance ```+1``` and then it goes to the left ```-1```.
 
-```
-
-Please, keep in mind:
-
-* There will always be one different step or none.
-* The modification can occur anywhere in the string.
-* The original steps could be empty
-
-> Points: 330
-
-## Better solutions from other users
-
-from: @eridev14
+Create a ```maxDistance``` function that takes the text string ```movements``` and returns **the maximum distance** that the reindeer can travel in any direction:
 
 ```typescript
-export function findNaughtyStep (original: string, modified: string) {
-  if (original === modified) return ''
+const movements = '>>*<'
+const result = maxDistance(movements)
+console.log(result) // -> 2
 
-  let pos = 0
+const movements2 = '<<<>'
+const result2 = maxDistance(movements2)
+console.log(result2) // -> 2
 
-  while (original[pos] === modified[pos]) {
-    pos++
-  }
-
-  const or = original.slice(pos)
-  const mo = modified.slice(pos)
-  return (or.length > mo.length) ? or[0] : mo[0]
-}
+const movements3 = '>***>'
+const result3 = maxDistance(movements3)
+console.log(result3) // -> 5
 ```
 
-from @KrashMello
+Keep in mind that it doesn't matter whether it is to the left or right, the distance is **the absolute value of the maximum distance traveled at the end of the movements.**
 
-```typescript
-export function findNaughtyStep (original: string, modified: string) {
-  // code here
-  const [longerChars, shorterChars] = modified.length > original.length
-    ? [[...modified], [...original]]
-    : [[...original], [...modified]]
-
-  return longerChars.find((char, i) => char !== shorterChars[i]) ?? ''
-}
-```
-
-from @KiyokianGirl
-
-```typescript
-export function findNaughtyStep (original: string, modified: string) {
-  for (let i = 0; i < modified.length; i++) {
-    if (modified[i] !== original[i]) {
-      return original.length > modified.length ? original[i] : modified[i]
-    }
-  }
-
-  return ''
-}
-```
+> Points: 350
 
 <br>
 
