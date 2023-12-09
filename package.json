@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "test": "vitest",
+    "test05": "vitest src/2023/challenges/05/app.test.ts",
     "test06": "vitest src/2023/challenges/06/app.test.ts",
     "test07": "vitest src/2023/challenges/07/app.test.ts",
     "test08": "vitest src/2023/challenges/08/app.test.ts",

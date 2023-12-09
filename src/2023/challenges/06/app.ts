@@ -16,5 +16,5 @@ export function maxDistance2 (movements: string) {
   const left = movements.replace(/<|\*/g, '').length
   const neutral = movements.replace(/<|>/g, '').length
 
-  return Math.abs(right - left) + neutral
+  return ((right - left) ** 2) ** 0.5 + neutral
 }
