@@ -41,7 +41,7 @@ drawGift(1, '^')
 
 Important: We have been told that there is always to leave a newline at the end of the drawing.
 
-> Points: 180
+> Points: 200
 
 <br>
 

@@ -1,26 +1,38 @@
 export function drawGift (size: number, symbol: string) {
-  const LINES = '#'
+  const BORDER_LINE = '#'
   const SPACE = ' '
-  if (size === 1) return '#\n'
-  const x = Math.abs(size - 2)
-  let b = '\n'
-  let c = ''
+  const BREAK_LINE = '\n'
+  const DRAW_SIZE = Math.abs(size - 2)
+  let topAngle = '\n'
+  let bottomAngle = ''
 
-  const top = SPACE.repeat(size - 1) + LINES.repeat(size)
-  const bottom = LINES.repeat(size) + '\n'
-  const center = LINES.repeat(size) + symbol.repeat(x) + LINES + '\n'
+  if (size === 1) return `${BORDER_LINE}${BREAK_LINE}`
 
-  for (let i = x; i > 0; i--) {
-    const c = Math.abs(i - x)
-    b += `${SPACE.repeat(i)}${LINES}${symbol.repeat(x)}${LINES}${c > 0 ? symbol.repeat(c) : ''}${LINES}` + '\n'
+  const top = SPACE.repeat(size - 1) + BORDER_LINE.repeat(size)
+  const bottom = BORDER_LINE.repeat(size) + BREAK_LINE
+  const center = BORDER_LINE.repeat(size) + symbol.repeat(DRAW_SIZE) + BORDER_LINE + BREAK_LINE
+
+  for (let i = DRAW_SIZE; i > 0; i--) {
+    const COUNT_SYMBOL_REPEATED = Math.abs(i - DRAW_SIZE)
+    const firstAngle = `${SPACE.repeat(i)}`
+    const secondAngle = `${symbol.repeat(DRAW_SIZE)}`
+    const thirdAngle = `${symbol.repeat(Math.max(COUNT_SYMBOL_REPEATED, 0))}`
+
+    const firstLine = `${firstAngle}${BORDER_LINE}${secondAngle}`
+    const secondLine = `${BORDER_LINE}${thirdAngle}${BORDER_LINE}`
+
+    topAngle += `${firstLine}${secondLine}` + `${BREAK_LINE}`
   }
 
-  for (let i = 0; i < x; i++) {
-    const t = Math.abs(i - x) - 1
-    c += `${LINES}${symbol.repeat(x)}${LINES}${t > 0 ? symbol.repeat(t) : ''}${LINES}` + '\n'
+  for (let i = 0; i < DRAW_SIZE; i++) {
+    const COUNT_SYMBOL_REPEATED = Math.abs(i - DRAW_SIZE) - 1
+    const firstAngle = `${symbol.repeat(DRAW_SIZE)}`
+    const secondAngle = `${symbol.repeat(Math.max(COUNT_SYMBOL_REPEATED, 0))}`
+
+    const firstLine = `${BORDER_LINE}${firstAngle}${BORDER_LINE}`
+    const secondLine = `${secondAngle}${BORDER_LINE}`
+    bottomAngle += `${firstLine}${secondLine}` + `${BREAK_LINE}`
   }
 
-  const result = top + b + center + c + bottom
-
-  return result
+  return top + topAngle + center + bottomAngle + bottom
 }
