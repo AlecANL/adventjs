@@ -8,8 +8,10 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "test": "vitest",
+    "test06": "vitest src/2023/challenges/06/app.test.ts",
     "test07": "vitest src/2023/challenges/07/app.test.ts",
-    "test08": "vitest src/2023/challenges/08/app.test.ts"
+    "test08": "vitest src/2023/challenges/08/app.test.ts",
+    "test09": "vitest src/2023/challenges/09/app.test.ts"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.4.0",
