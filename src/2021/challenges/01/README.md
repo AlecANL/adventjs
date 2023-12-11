@@ -1,30 +1,31 @@
-# Challenge 02 🎁 list of gifts
+# Challenge 01 🐑 Count Sheep
 
-Te ha llegado una carta ✉️ con todos los regalos que debes preparar. El tema es que es una cadena de texto y es muy difícil de leer 😱. ¡Menos mal que han puesto cada regalo separado por espacio! (aunque ten cuidado, porque al ser niños, igual han colado más espacios de la cuenta)
+Considera una lista/array de ovejas. Cada oveja tiene un nombre y un color. Haz una función que devuelva una lista con todas las ovejas que sean de color ```rojo``` y que además su nombre contenga tanto las letras ```n``` Y ```a```, sin importar el orden, las mayúsculas o espacios.
 
-Encima nos hemos dado cuenta que algunas palabras vienen con un ```_``` delante de la palabra, por ejemplo ```_playstation```, que significa que **está tachado y no se tiene que contar.**
-
-Transforma el texto a un objeto que contenga el nombre de cada regalo y las veces que aparece. Por ejemplo, si tenemos el texto:
+Por ejemplo, si tenemos las ovejas:
 
 ```typescript
-const carta = 'bici coche balón _playstation bici coche peluche'
+const ovejas = [
+  { name: 'Noa', color: 'azul' },
+  { name: 'Euge', color: 'rojo' },
+  { name: 'Navidad', color: 'rojo' },
+  { name: 'Ki Na Ma', color: 'rojo'},
+  { name: 'AAAAAaaaaa', color: 'rojo' },
+  { name: 'Nnnnnnnn', color: 'rojo'}
+]
 ```
 
 Al ejecutar el método debería devolver lo siguiente:
 
-```typescript
-const regalos = listGifts(carta)
+const ovejasFiltradas = contarOvejas(ovejas)
 
-console.log(regalos)
-/*
-{
-  bici: 2,
-  coche: 2,
-  balón: 1,
-  peluche: 1
-}
-*/
+console.log(ovejasFiltradas)
+
+```typescript
+// [{ name: 'Navidad', color: 'rojo' },
+//  { name: 'Ki Na Ma', color: 'rojo' }]
 ```
 
-Ten en cuenta que los tests pueden ser más exhaustivos... 😝 **¡Cuidado con contar espacios vacíos!**
+Recuerda. **Debe contener las dos letras 'a' y 'n' en el nombre.** No cuentes ovejas que sólo tenga una de las letras, debe tener ambas.
+
 [⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2021)
