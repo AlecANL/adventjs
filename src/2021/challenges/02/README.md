@@ -1,4 +1,4 @@
-# Challenge 02 🎁 list of gifts
+# Challenge #02 🎁 list of gifts
 
 Te ha llegado una carta ✉️ con todos los regalos que debes preparar. El tema es que es una cadena de texto y es muy difícil de leer 😱. ¡Menos mal que han puesto cada regalo separado por espacio! (aunque ten cuidado, porque al ser niños, igual han colado más espacios de la cuenta)
 
@@ -27,4 +27,7 @@ console.log(regalos)
 ```
 
 Ten en cuenta que los tests pueden ser más exhaustivos... 😝 **¡Cuidado con contar espacios vacíos!**
+
+<br>
+
 [⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2021)
