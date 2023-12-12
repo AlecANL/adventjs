@@ -24,9 +24,11 @@ Not at all, this is just my contribution as someone who is starting his career i
 Where to find more about the community?
 You can follow midudev on [Twitter](https://twitter.com/midudev) You can also watch his live streams on [Twitch](https://www.twitch.tv/midudev). (Mon-Thurs at 20h regular times, may change) or on his [Youtube](https://www.youtube.com/c/midudev). channel You can also join his community on [Discord](https://t.co/XruHkD62j3).
 
-| ##    |                               Challenges                              |                              Solutions                               |
-| :---: |:---------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-|  2023   | [Go to](https://adventjs.dev/)                                       |   [View](https://github.com/AlecANL/adventjs/tree/main/src/2023)     |
+| ##    | Challenges | Solutions |
+| :---: |:----------:|:---------:|
+|  2021   | [Go to](https://adventjs.dev/) |   [View](https://github.com/AlecANL/adventjs/tree/main/src/2021)     |
+|  2022   | ... |   ...     |
+|  2023   | [Go to](https://adventjs.dev/) |   [View](https://github.com/AlecANL/adventjs/tree/main/src/2023)     |
 
 ## 🚀 Quick start
 
