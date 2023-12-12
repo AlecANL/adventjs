@@ -1,4 +1,4 @@
-# Challenge #02 🧑‍🎤 The Grinch wants to spoil Christmas
+# Challenge #03 🧑‍🎤 The Grinch wants to spoil Christmas
 
 El Grinch está abriendo las cartas que iban a Santa Claus y las está dejando hechas un lío. 😱
 
