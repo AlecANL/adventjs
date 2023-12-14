@@ -14,6 +14,7 @@
     "test08": "vitest src/2023/challenges/08/app.test.ts",
     "test09": "vitest src/2023/challenges/09/app.test.ts",
     "test10": "vitest src/2023/challenges/10/app.test.ts",
+    "test13": "vitest src/2023/challenges/13/app.test.ts",
     "21test01": "vitest src/2021/challenges/01/app.test.ts",
     "21test02": "vitest src/2021/challenges/02/app.test.ts",
     "21test03": "vitest src/2021/challenges/03/app.test.ts",
