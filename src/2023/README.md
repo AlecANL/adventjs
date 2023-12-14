@@ -15,8 +15,8 @@
 | <img src="https://adventjs.dev/challenges-2023/9.png" width="40" height="50" />       |  09   | 🚦 Switch the lights warehouse         |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2023/challenges/09/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2023/challenges/09) | 330 |
 | <img src="https://adventjs.dev/challenges-2023/10.png" width="40" height="50" />       | 10   | 🎄 Create your own Christmas tree         |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2023/challenges/10/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2023/challenges/10) | 190 |
 | <img src="https://adventjs.dev/challenges-2023/11.png" width="40" height="50" />       | 11   | 📖 The studious elves         |         🟢     | Pending...   | Pending...   | - |
-| <img src="https://adventjs.dev/challenges-2023/12.png" width="40" height="50" />       | 12   | 📸 Is it a valid copy?         |         🟢     | Pending...  | Pending ...  | - |
-| <img src="https://adventjs.dev/challenges-2023/13.png" width="40" height="50" />       | 13   | ⌚️ Calculating the time         |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2023/challenges/13/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2023/challenges/13) | 270 |
+| <img src="https://adventjs.dev/challenges-2023/12.png" width="50" height="50" />       | 12   | 📸 Is it a valid copy?         |         🟢     | Pending...  | Pending ...  | - |
+| <img src="https://adventjs.dev/challenges-2023/13.png" width="20" height="50" />       | 13   | ⌚️ Calculating the time         |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2023/challenges/13/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2023/challenges/13) | 270 |
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
 ## ⌨️ | Installation
