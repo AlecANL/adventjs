@@ -10,6 +10,7 @@
 | <img src="/public/2021/xmas-tree.png" width="40" height="50" />       |  04   | 🎄 It's time to put Christmas in the house|         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/04/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/04)|
 | <img src="/public/2021/25-december.png" width="40" height="50" />       |  05   | 📆 Counting down the days for gifts |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/05/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/05)|
 | <img src="/public/2021/math.png" width="40" height="50" />       |  06   | 🧮 Finishing off final exams |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/06/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/06)|
+| <img src="/public/2021/shop.png" width="40" height="50" />       |  07   | 🏪 Searching in the warehouse |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/07/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/07)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 

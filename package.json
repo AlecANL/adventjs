@@ -20,7 +20,8 @@
     "21test03": "vitest src/2021/challenges/03/app.test.ts",
     "21test04": "vitest src/2021/challenges/04/app.test.ts",
     "21test05": "vitest src/2021/challenges/05/app.test.ts",
-    "21test06": "vitest src/2021/challenges/06/app.test.ts"
+    "21test06": "vitest src/2021/challenges/06/app.test.ts",
+    "21test07": "vitest src/2021/challenges/07/app.test.ts"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.4.0",
