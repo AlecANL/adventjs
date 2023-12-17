@@ -14,6 +14,7 @@
 | <img src="/public/2021/bitcoin.png" width="40" height="50" />       |  08   | 💸 The cryptocurrency craze |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/08/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/08)|
 | <img src="/public/2021/package.png" width="40" height="50" />       |  09   | 🗳️ Automatically grouping things together |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/09/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/09)|
 | <img src="/public/2021/coins.png" width="40" height="50" />       |  10   | ฿ The change machine |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/10/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/10)|
+| <img src="/public/2021/cine.png" width="40" height="50" />       |  11   | 🎫 Is the cinema loyalty card worth it? |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/11app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/11)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
