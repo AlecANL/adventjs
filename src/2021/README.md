@@ -11,7 +11,8 @@
 | <img src="/public/2021/25-december.png" width="40" height="50" />       |  05   | 📆 Counting down the days for gifts |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/05/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/05)|
 | <img src="/public/2021/math.png" width="40" height="50" />       |  06   | 🧮 Finishing off final exams |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/06/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/06)|
 | <img src="/public/2021/shop.png" width="40" height="50" />       |  07   | 🏪 Searching in the warehouse |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/07/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/07)|
-| <img src="/public/2021/bitcoin.png" width="40" height="50" />       |  07   | 💸 The cryptocurrency craze |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/08/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/08)|
+| <img src="/public/2021/bitcoin.png" width="40" height="50" />       |  08   | 💸 The cryptocurrency craze |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/08/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/08)|
+| <img src="/public/2021/package.png" width="40" height="50" />       |  09   | 🗳️ Automatically grouping things together |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/09/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/09)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
