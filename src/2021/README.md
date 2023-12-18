@@ -21,6 +21,7 @@
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/fly.png?raw=true" width="45" height="50" />       |  15   |🤾🏽‍♂️ The perfect jump |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/15/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/15)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/roman.png?raw=true" width="45" height="50" />       |  16   | 🤔 Deciphering the numbers |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/16/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/16)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/carrier.png?raw=true" width="45" height="50" />       |  17   | 🚛 The madness of sending packages in this time of the year |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/17/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/17)|
+| <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/computer.png?raw=true" width="45" height="50" />       |  18   | 🎅🏻 Santa's operating system |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/18/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/18)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
