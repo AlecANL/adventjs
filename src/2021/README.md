@@ -16,6 +16,7 @@
 | <img src="/public/2021/coins.png" width="40" height="50" />       |  10   | ฿ The change machine |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/10/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/10)|
 | <img src="/public/2021/cine.png" width="40" height="50" />       |  11   | 🎫 Is the cinema loyalty card worth it? |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/11/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/11)|
 | <img src="/public/2021/trineo.png" width="40" height="50" />       |  12   |🧭 The perfect route to drop off gifts |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/12/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/12)|
+| <img src="/public/2021/gift.png" width="40" height="50" />       |  13   |🎁 Wrap gifts with asterisks |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/13/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/13)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
