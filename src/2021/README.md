@@ -18,6 +18,7 @@
 | <img src="/public/2021/trineo.png" width="40" height="50" />       |  12   |🧭 The perfect route to drop off gifts |         🔴     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/12/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/12)|
 | <img src="/public/2021/gift.png" width="40" height="50" />       |  13   |🎁 Wrap gifts with asterisks |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/13/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/13)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/reindeer.png?raw=true" width="45" height="50" />       |  14   |🦌 In search of the lost reindeer |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/14/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/14)|
+| <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/fly.png?raw=true" width="45" height="50" />       |  15   |🤾🏽‍♂️ The perfect jump |         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/15/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/15)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
