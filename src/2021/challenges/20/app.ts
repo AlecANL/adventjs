@@ -3,3 +3,21 @@ export function pangram (letter: string) {
 
   return pattern.test(letter.toLocaleLowerCase())
 }
+
+/*
+
+function pangram(letter) {
+  const all = [...'abcdefghijklmnopqrstuvwxyz']
+  const normalized = letter.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+
+  let res = true
+
+  all.forEach(char => {
+    if (!normalized.includes(char)) res = false
+  })
+  if (res) return letter.includes('ñ')
+
+  return res
+}
+
+*/
