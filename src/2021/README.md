@@ -24,6 +24,7 @@
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/computer.png?raw=true" width="45" height="50" />       |  18   | 🎅🏻 Santa's operating system |         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/18/app.ts)         | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/18)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/platzi-regalo.png?raw=true" width="45" height="50" />       |  19   | 📚 What should we learn at Platzi?|         🟠     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/19/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/19)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/alphabet.png?raw=true" width="50" height="50" />       |  20   | 💌 A pangram card? WHAT|         🟢     | [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/20/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/20)|
+| <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/bag-gifts.png?raw=true" width="50" height="50" />       |  21   | 🎒 The route with gifts |🔴| [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/21/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/21)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 

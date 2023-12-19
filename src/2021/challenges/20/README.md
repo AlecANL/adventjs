@@ -1,4 +1,4 @@
-# Challenge #19 💌 A pangram card? WHAT
+# Challenge #20 💌 A pangram card? WHAT
 
 En la clase de español del pueblo de Laponia han creado un reto a la hora de escribir la carta a Papa Noél 🎅: la carta ✉️ tiene que contener todas las letras del alfabeto.
 
