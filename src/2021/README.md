@@ -28,6 +28,7 @@
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/xmas-tree.png?raw=true" width="50" height="50" />       |  22   | 🎄 How many ornaments does the tree need? |🟠| [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/22/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/22)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/factory.png?raw=true" width="50" height="50" />       |  23   | 🏢 Can you reconfigure factories to keep creating gifts?  |🟣| [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/23/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/23)|
 | <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/xmas-trees.png?raw=true" width="60" height="50" />       |  24   | 🌲🎄 Comparing Christmas trees  |🟠| [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/24/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/24)|
+| <img src="https://github.com/AlecANL/adventjs/blob/main/public/2021/mouse.png?raw=true" width="60" height="50" />       |  25   | 🐭 The last game and see you next year 👋  |🟠| [Spoiler](https://github.com/AlecANL/adventjs/blob/main/src/2021/challenges/25/app.ts) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021/challenges/25)|
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
