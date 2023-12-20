@@ -30,4 +30,4 @@ Ah, **and do not mutate the original array!**
 
 <br>
 
-[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2021)
+[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2022)

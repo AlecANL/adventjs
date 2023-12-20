@@ -29,4 +29,4 @@ Things to keep in mind:
 
 <br>
 
-[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2021)
+[⬅️ Back](https://github.com/AlecANL/adventjs/tree/main/src/2022)
