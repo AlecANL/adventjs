@@ -26,7 +26,7 @@ As you can see, the wrapping paper wraps the string. On top and bottom, so as no
 
 Ah, **and do not mutate the original array!**
 
-> Points:
+> Points: 121
 
 <br>
 

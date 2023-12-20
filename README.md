@@ -26,9 +26,9 @@ You can follow midudev on [Twitter](https://twitter.com/midudev) You can also wa
 
 | ##    | Challenges | Solutions |
 | :---: |:----------:|:---------:|
-|  2021   | [Go to](https://2021.adventjs.dev/) |   [View](https://github.com/AlecANL/adventjs/tree/main/src/2021)     |
-|  2022   | [Go to](https://2022.adventjs.dev/) |   ...     |
-|  2023   | [Go to](https://adventjs.dev/)      |   [View](https://github.com/AlecANL/adventjs/tree/main/src/2023)     |
+|  2021   | [Go to](https://2021.adventjs.dev/) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2021) |
+|  2022   | [Go to](https://2022.adventjs.dev/) | [View](https://github.com/AlecANL/adventjs/tree/main/src/2022) |
+|  2023   | [Go to](https://adventjs.dev/)      | [View](https://github.com/AlecANL/adventjs/tree/main/src/2023) |
 
 ## 🚀 Quick start
 
